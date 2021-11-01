@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,8 +38,29 @@ namespace FullStackDoorloopFFF
             _db.Add(klant);
             _db.SaveChanges();
             return klant;
-            
         }
+
+        
+        [HttpGet("TestProduct")]
+        public Product NeemDeProducten(int id)
+        {
+            Product product1 = new Product();
+            product1.Naam = "Ronny";
+            product1.Prijs = 23;
+            _db.Add(product1);
+            _db.SaveChanges();
+            return product1;
+        }
+
+
+        [HttpGet("LaadProducten")]
+        public DbSet<Product> NeemDeProducten()
+        {
+
+            return _db.ProductContext;
+        }
+
+
 
         // POST api/<KlantController>
         //[HttpPost]
