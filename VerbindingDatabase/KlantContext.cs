@@ -9,5 +9,6 @@ namespace VerbindingDatabase
     {
         public KlantContext(DbContextOptions abc) : base(abc) { }
         public DbSet<Klant> KlantenContext { get; set; }
+        public DbSet<Product> ProductContext { get; set; }
     }
 }
