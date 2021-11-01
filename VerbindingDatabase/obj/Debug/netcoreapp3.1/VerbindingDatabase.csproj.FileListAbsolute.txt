@@ -1,0 +1,13 @@
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\bin\Debug\netcoreapp3.1\VerbindingDatabase.deps.json
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\bin\Debug\netcoreapp3.1\VerbindingDatabase.runtimeconfig.json
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\bin\Debug\netcoreapp3.1\VerbindingDatabase.runtimeconfig.dev.json
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\bin\Debug\netcoreapp3.1\VerbindingDatabase.dll
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\bin\Debug\netcoreapp3.1\VerbindingDatabase.pdb
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.csproj.AssemblyReference.cache
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.AssemblyInfoInputs.cache
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.AssemblyInfo.cs
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.csproj.CoreCompileInputs.cache
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.dll
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.pdb
+C:\Users\esenk\source\repos\FullStackDoorloopFFF\VerbindingDatabase\obj\Debug\netcoreapp3.1\VerbindingDatabase.genruntimeconfig.cache
